@@ -1,14 +1,38 @@
-## Hi there 👋
+👋 Hi, I’m Ashna
 
-**ashnacse/ashnacse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Educator | Learner | Tech Enthusiast
+💡 Passionate about teaching, technology, and continuous learning
 
-Here are some ideas to get you started:
+🌟 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning AIML
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👩‍🏫 Faculty / Academic Professional
+
+📚 Interested in Software Development, Open Source, and Innovation
+
+🌱 Currently exploring new technologies and tools
+
+🤝 Enjoy mentoring students and collaborating on projects
+
+🛠️ Skills & Tools
+
+Programming: C, C++, Java, Python
+
+Web Technologies: HTML, CSS, JavaScript
+
+Tools: Git, GitHub, VS Code
+
+Areas of Interest: Data Structures, Problem Solving, Project Development
+
+🚀 What I’m Working On
+
+📌 Academic and student-oriented projects
+
+📌 Improving coding and GitHub workflows
+
+📌 Exploring real-world applications of technology
+
+📫 Connect With Me
+
+💼 LinkedIn: (add your link)
+
+📧 Email: (add your email)
