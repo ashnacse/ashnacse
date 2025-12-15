@@ -1,35 +1,40 @@
-👋 Hey there! I’m Ashna
+👋 Hi, I’m Ashna
 
-✨ Teaching. Learning. Building. Repeating.
+🎓 Educator | Tech Enthusiast | Lifelong Learner
 
-🎓 Educator by profession | 💻 Tech explorer by passion
-I love turning ideas into code and curiosity into knowledge.
+I enjoy teaching, learning, and exploring technology to build practical and meaningful solutions.
 
-🚀 A Little About Me
+🌟 About
 
-👩‍🏫 Guiding students beyond textbooks
+Academic professional
 
-💡 Exploring tech that solves real-world problems
+Interested in software development and innovation
 
-🌱 Always learning, always improving
+Exploring new tools and technologies
 
-🤝 Open to collaboration & open-source contributions
+Enjoy mentoring and collaboration
 
-🧠 Tech I Play With
+🛠️ Skills
 
-💻 Languages: C | C++ | Java | Python
-🌐 Web: HTML | CSS | JavaScript
-🛠️ Tools: Git | GitHub | VS Code
-📊 Interests: Problem Solving | Projects | Innovation
+Languages: C, C++, Java, Python
 
-⚡ Current Vibes
+Web: HTML, CSS, JavaScript
 
-Building meaningful academic & tech projects
+Tools: Git, GitHub, VS Code
 
-Helping students grow through mentorship
+Focus: Problem Solving, Data Structures, Projects
 
-Leveling up one commit at a time
+🚀 Current Focus
 
-🌍 Let’s Connect
+Academic and student projects
 
-📫 Drop a mail | 💼 LinkedIn | 🌟 Collaborate
+Improving coding and GitHub workflows
+
+Real-world applications of technology
+
+📫 Connect
+
+LinkedIn: (add link)
+
+Email: (add email)
+
